@@ -1,0 +1,3 @@
+*.zip
+lambda/main
+mysql/init/1_initdata.sql
